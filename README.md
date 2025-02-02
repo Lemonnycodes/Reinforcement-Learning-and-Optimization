@@ -13,7 +13,7 @@ This repository contains implementations of Reinforcement learning and optimizat
 ## Technologies
 
 - **Programming Language**: Python
-- **Libraries**: NumPy, pandas, Matplotlib (add any other libraries or frameworks used in your project)
+- **Libraries**: NumPy, pandas, Matplotlib
 
 ## Features
 
