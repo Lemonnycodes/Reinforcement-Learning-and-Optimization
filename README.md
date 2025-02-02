@@ -1,8 +1,6 @@
 # Reinforcement-Learning-and-Optimization
 
-# Advanced Machine Learning and Optimization
-
-This repository contains implementations of various machine learning and optimization algorithms focused on improving decision-making in dynamic environments. The project showcases a blend of traditional optimization techniques and modern machine learning approaches to solve complex problems in pathfinding, decision-making, and policy optimization.
+This repository contains implementations of Reinforcement learning and optimization algorithms focused on improving decision-making in dynamic environments. The project showcases a blend of traditional optimization techniques and modern Reinforcement Leaning approaches to solve complex problems in pathfinding, Decision-making, and policy optimization.
 
 ## Project Structure
 
